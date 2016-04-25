@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Bitm</string>
+    <!-- button name-->
+    <string name="registration_list_btn">Registration List</string>
+    <string name="notification_btn">Send Notification</string>
+    <string name="add_question_btn">Add Question</string>
+    <string name="add_answer_btn">Add Answer</string>
+    <string name="result_publish_btn">Result Publish</string>
+    <string name="examDuration_btn">Set Exam Duration</string>
+    <string name="addQuestion_btn">Add Question</string>
+
+    <string name="exam_start_btn">Exam Start</string>
+    <string name="logout_btn">Logout</string>
+    <string name="settime_btn">Set Time</string>
+
+    <string name="title_activity_registration_list_activity">RegistrationList_activity</string>
+
+    <!-- hint -->
+    <string name="hint_exam_duration">Set Exam Duration In Minute</string>
+    <string name="hint_write_something">Write something here.....</string>
+    <string name="hint_userName">User Name</string>
+    <string name="hint_user_email">User Email</string>
+    <string name="hint_password">User Password</string>
+
+    <!-- tarikul vai code-->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_Text">LOGIN</string>
+    <string name="wellcome">Welcome To BITM!</string>
+    <string name="create_account">Create Account</string>
+    <string name="title_activity_registration">Registration</string>
+
+    <string name="reg_name">Full Name</string>
+    <string name="reg_email">Email</string>
+    <string name="reg_phone">Phone</string>
+    <string name="reg_password">password</string>
+    <string name="reg_conPass">Confirm Password</string>
+    <string name="reg_submit">Submit</string>
+    <string name="reg_text">Welcome To Registration!</string>
+    <string name="title_activity_exam">Exam</string>
+
+    <string name="e_wellcome">Wellcome ? !!</string>
+    <string name="e_startExamBTN">Start Exam</string>
+    <string name="e_notificationBTN">Notification</string>
+    <string name="e_resultBTN">Result</string>
+    <string name="e_examRuleBTN">Exam Rule</string>
+    <string name="title_activity_exam_rule">ExamRule</string>
+
+    <string name="rule_wc">BITM EXAM RULES!</string>
+    <string name="rules1">password</string>
+    <string name="rules2">password</string>
+    <string name="rules3">password</string>
+    <string name="rules4">password</string>
+    <string name="title_activity_question">Question</string>
+</resources>
